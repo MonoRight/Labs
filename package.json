@@ -1,0 +1,29 @@
+{
+  "name": "firsttry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonoRight/Labs.github.io.git"
+  },
+  "author": "Dmytro Parkhomenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonoRight/Labs.github.io/issues"
+  },
+  "homepage": "https://github.com/MonoRight/Labs.github.io#readme",
+  "dependencies": {
+    "esdoc": "^1.1.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "husky": "^3.0.8",
+    "mocha": "^6.2.1",
+    "prettier": "^1.18.2"
+  }
+}
